@@ -1,0 +1,17 @@
+Finded Wood simillar to Wood index of part = 0 index of finded 0
+
+Finded Tube simillar to Tube index of part = 1 index of finded 1
+
+Finded Tube simillar to Tube index of part = 2 index of finded 3
+
+Finded Gear simillar to Gear index of part = 3 index of finded 2
+
+Finded Scrap simillar to Scrap index of part = 4 index of finded 5
+
+Finded Tube simillar to Tube index of part = 5 index of finded 4
+
+Finded Gear simillar to Gear index of part = 6 index of finded 8
+
+Finded Tube simillar to Tube index of part = 7 index of finded 6
+
+Finded Gear simillar to Gear index of part = 8 index of finded 9
